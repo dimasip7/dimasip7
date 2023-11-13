@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @dimasip7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hello World, I'm Dimas Ilham Prayoga 👋
+21 years old under graduate college student👨‍🎓
+<hr>
 
-<!---
-dimasip7/dimasip7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Jember University | Departement of Computer Science | Informatics 🎓 <br/>
+- Part of <span><a href="https://www.instagram.com/hmifunej/">@hmifunej</a></span> as Staff of Student Resource Development :male_detective:
+
+<hr>
+
+Find me on
+-  <a href="https://www.instagram.com/dimasip7/">Instagram</a>
+-  <a href="https://www.linkedin.com/in/dimasilham7/">LinkedIn</a>
+-  <a href="mailto:masdimasilham@gmail.com">Email</a>
